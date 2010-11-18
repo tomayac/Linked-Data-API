@@ -1,0 +1,7 @@
+This project provides a very early alpha stage implementation of the W3C RDFa API, available at http://www.w3.org/TR/rdfa-api/.
+
+The project is licensed under a Creative Commons license:
+http://creativecommons.org/licenses/by/3.0/
+
+Author: Thomas Steiner
+Email: tomac@google.com
